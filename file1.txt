@@ -3,3 +3,5 @@ First source code file.
 The mistake is fixed.
 
 New function() here.
+
+Second function2() here.
